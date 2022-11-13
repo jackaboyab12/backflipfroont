@@ -8,9 +8,9 @@ local scriptname = "feFlip"
 
 --[[ Keybinds you can change ]]--
 
-local FrontflipKey = Enum.KeyCode.Z -you can change this these key bind
-local BackflipKey = Enum.KeyCode.X  -you can change this these key bind
-local AirjumpKey = Enum.KeyCode.C   -you can change this these key bind
+local FrontflipKey = Enum.KeyCode.X -you can change this these key bind
+local BackflipKey = Enum.KeyCode.C  -you can change this these key bind
+local AirjumpKey = Enum.KeyCode.D  -you can change this these key bind
 
 
 --[[ Dependencies ]]--
